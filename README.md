@@ -1,7 +1,7 @@
 
-# Social-Media-Backend
+# Ecommerce-Backend
 
-Core functionalities of a Social Media App or Website created using Node.js, Express.js and MongoDB as database.
+Core functionalities of a Ecommerce App or Website created using Node.js, Express.js and MongoDB as database.
 
 
 
